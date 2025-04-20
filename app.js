@@ -9,19 +9,6 @@ const app = express();
 app.use(express.static("images"));
 app.use(bodyParser.json());
 
-// CORS
-
-// app.use((req, res, next) => {
-//   res.setHeader("Access-Control-Allow-Origin", "*");
-//   res.setHeader(
-//     "Access-Control-Allow-Methods",
-//     "GET, POST, PUT, DELETE, OPTIONS"
-//   );
-//   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-
-//   next();
-// });
-
 app.use(
   cors({
     origin: "*", // You can change this later to just your frontend domain
