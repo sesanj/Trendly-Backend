@@ -20,6 +20,25 @@
   },
   {
     "dateRegistered": 1741054400000,
+    "ID": "DERTMN32I324",
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "password": "admin12345",
+    "email": "admin@gmail.com",
+    "phoneNumber": "+2348036876569",
+    "role": "ADMIN",
+    "registered": true,
+    "username": "sesanjoel",
+    "address": {
+      "country": "Nigeria",
+      "state": "Abuja",
+      "townCity": "Life Camp",
+      "address": "14A Aribisola Close, Brains and Hammers Estate, Life Camp",
+      "postalCode": "123B3ZA"
+    }
+  },
+  {
+    "dateRegistered": 1741054400000,
     "ID": "KSJH6435NF",
     "firstName": "Joel",
     "lastName": "Sylvester",
