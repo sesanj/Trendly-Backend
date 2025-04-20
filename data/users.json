@@ -1,0 +1,97 @@
+[
+  {
+    "dateRegistered": 1741054400000,
+    "ID": "JDBMN32IDN244",
+    "firstName": "Sesan",
+    "lastName": "Popoola",
+    "password": "police10!",
+    "email": "Popoolajoel4@gmail.com",
+    "phoneNumber": "+2348036876569",
+    "role": "ADMIN",
+    "registered": true,
+    "username": "sesanjoel",
+    "address": {
+      "country": "Nigeria",
+      "state": "Abuja",
+      "townCity": "Life Camp",
+      "address": "14A Aribisola Close, Brains and Hammers Estate, Life Camp",
+      "postalCode": "123B3ZA"
+    }
+  },
+  {
+    "dateRegistered": 1741054400000,
+    "ID": "KSJH6435NF",
+    "firstName": "Joel",
+    "lastName": "Sylvester",
+    "password": "police10!",
+    "email": "joelSylv@gmail.com",
+    "phoneNumber": "+23480123876569",
+    "role": "CUSTOMER",
+    "registered": true,
+    "username": "SylvesterJoel",
+    "address": {
+      "country": "Nigeria",
+      "state": "Lagos",
+      "townCity": "Banana Island",
+      "address": "35T West Avenue Victoria Estate",
+      "postalCode": "AW234TW"
+    }
+  },
+  {
+    "dateRegistered": 1741054400000,
+    "ID": "DJHFH8484H4F",
+    "firstName": "David",
+    "lastName": "Usuanlele",
+    "password": "police10!",
+    "email": "davidUsuanlele@gmail.com",
+    "phoneNumber": "+2348123876532",
+    "role": "CUSTOMER",
+    "registered": true,
+    "username": "davidUsuanlele",
+    "address": {
+      "country": "Nigeria",
+      "state": "Lagos",
+      "townCity": "Ikeja",
+      "address": "12T Ikeja Lagos express way",
+      "postalCode": "IK214"
+    }
+  },
+  {
+    "ID": "7V22H",
+    "firstName": "Emmanuel",
+    "lastName": "Makay",
+    "email": "emakay@gmail.com",
+    "phoneNumber": 593222903,
+    "registered": true,
+    "role": "CUSTOMER",
+    "dateRegistered": 1743345372021,
+    "password": "emakaypolice101",
+    "username": "emakay",
+    "address": {
+      "country": "Georgia",
+      "state": "Tbilisi",
+      "address": "51 sairme street, saburtalo",
+      "townCity": "Tbilisi",
+      "postalCode": "0105"
+    }
+  },
+  {
+    "ID": "11V9A",
+    "firstName": "Michael",
+    "lastName": "Olise",
+    "email": "michaelOlise@gmail.com",
+    "phoneNumber": 8043258734,
+    "registered": true,
+    "role": "CUSTOMER",
+    "dateRegistered": 1743525225089,
+    "password": "mpolice10!",
+    "username": "MOlise",
+    "address": {
+      "country": "Nigeria",
+      "state": "Lagos",
+      "address": "343 ikeja Express way",
+      "townCity": "Ikeja",
+      "postalCode": "1234"
+    }
+  }
+]
